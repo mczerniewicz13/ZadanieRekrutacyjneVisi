@@ -1,0 +1,20 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (ZadanieRekrutacyjne_Mateusz_Czerniewicz.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+C:\Users\mczer\source\repos\Zadanie_Rekrutacyjne_Mateusz_Czerniewicz\main.cpp(94,19): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mczer\source\repos\Zadanie_Rekrutacyjne_Mateusz_Czerniewicz\main.cpp(177,20): warning C4244: "inicjowanie": konwersja z "_Ty" do "int", możliwa utrata danych
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mczer\source\repos\Zadanie_Rekrutacyjne_Mateusz_Czerniewicz\main.cpp(178,21): warning C4244: "inicjowanie": konwersja z "_Ty" do "int", możliwa utrata danych
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\mczer\source\repos\Zadanie_Rekrutacyjne_Mateusz_Czerniewicz\main.cpp(238,31): warning C4305: "+=": obcięcie z "double" do "float"
+C:\Users\mczer\source\repos\Zadanie_Rekrutacyjne_Mateusz_Czerniewicz\main.cpp(244,33): warning C4305: "-=": obcięcie z "double" do "float"
+C:\Users\mczer\source\repos\Zadanie_Rekrutacyjne_Mateusz_Czerniewicz\main.cpp(264,90): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mczer\source\repos\Zadanie_Rekrutacyjne_Mateusz_Czerniewicz\main.cpp(264,41): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mczer\source\repos\Zadanie_Rekrutacyjne_Mateusz_Czerniewicz\main.cpp(263,113): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mczer\source\repos\Zadanie_Rekrutacyjne_Mateusz_Czerniewicz\main.cpp(263,64): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Zadanie_Rekrutacyjne_Mateusz_Czerniewicz.vcxproj -> C:\Users\mczer\source\repos\Zadanie_Rekrutacyjne_Mateusz_Czerniewicz\x64\Debug\Zadanie_Rekrutacyjne_Mateusz_Czerniewicz.exe
